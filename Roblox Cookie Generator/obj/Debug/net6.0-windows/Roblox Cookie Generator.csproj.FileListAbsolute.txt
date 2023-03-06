@@ -1,0 +1,17 @@
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\bin\Debug\net6.0-windows\Roblox Cookie Generator.exe
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\bin\Debug\net6.0-windows\Roblox Cookie Generator.deps.json
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\bin\Debug\net6.0-windows\Roblox Cookie Generator.runtimeconfig.json
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\bin\Debug\net6.0-windows\Roblox Cookie Generator.dll
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\bin\Debug\net6.0-windows\Roblox Cookie Generator.pdb
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.csproj.AssemblyReference.cache
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox_Cookie_Generator.Form1.resources
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.csproj.GenerateResource.cache
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.AssemblyInfoInputs.cache
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.AssemblyInfo.cs
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.csproj.CoreCompileInputs.cache
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.dll
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\refint\Roblox Cookie Generator.dll
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.pdb
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\Roblox Cookie Generator.genruntimeconfig.cache
+C:\Users\Adame\source\repos\Roblox Cookie Generator\Roblox Cookie Generator\obj\Debug\net6.0-windows\ref\Roblox Cookie Generator.dll
