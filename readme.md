@@ -18,6 +18,7 @@ Debug as a normal 6.0 .Net Project
 ## Usage 🌙
 ```
 Theres nothing you can do!
+When you click the button in the textbox it writes the cookie + it saves the .txt file as cookie.txt
 ```
   
 ## Notes ☂
