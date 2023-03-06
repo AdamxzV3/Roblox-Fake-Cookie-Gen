@@ -23,7 +23,7 @@ Theres nothing you can do!
 ## Notes ☂
 * This is the first version, if you see a bug, please open an issue. 🌑 
 * Educational purposes only 🟣
- 
+* Please star this project
 
 ## To-Do List
 
